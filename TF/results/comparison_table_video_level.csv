@@ -1,0 +1,3 @@
+Modelo,Accuracy,Precision (macro),Recall (macro),F1 (macro),Precision (weighted),Recall (weighted),F1 (weighted)
+HOG + SVM (clasico),0.596,0.7217,0.5202,0.5422,0.6665,0.596,0.5684
+ResNet50 (profundo),0.8081,0.8479,0.7774,0.7975,0.8279,0.8081,0.8022
