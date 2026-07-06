@@ -1,2 +1,15 @@
 outputs/
 .venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Trabajo Final - Procesamiento de Imagenes
+TF/data/_kaggle_download/
+TF/data/raw/
+TF/data/frames/
+TF/models/*.pkl
+TF/models/*.pt
+TF/code/.gradio/
+kaggle.json
